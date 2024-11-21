@@ -1,1 +1,3 @@
-This code effectively simulates a light switch mechanism on a web page, visually indicating whether the light is on or off through changes in images and text, as well as altering the appearance of the switch buttons.
+The counter functionality allows users to increment, decrement, or reset a displayed value, with the current value being updated dynamically in the DOM and its color changing based on whether the value is positive (green), negative (red), or zero (black).
+
+The implementation utilizes event-driven functions (onIncrement, onDecrement, onReset) to manipulate the counter's value by parsing the existing text content, performing arithmetic operations, and applying conditional styling through the setColor function to visually represent the counter's state.
