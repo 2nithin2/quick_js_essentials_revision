@@ -1,0 +1,1 @@
+This code effectively simulates a light switch mechanism on a web page, visually indicating whether the light is on or off through changes in images and text, as well as altering the appearance of the switch buttons.
